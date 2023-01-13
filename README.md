@@ -11,7 +11,7 @@ There is a score tracker however you end the game when you want to - there are n
 
 Most importantly, HAVE FUN! 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtu.be/q8x4yu3Gg1I
 
 # Development Environment
 
@@ -21,7 +21,6 @@ The main programming language used is Python, with the Arcade extension library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * YouTube (https://www.youtube.com/watch?v=DAWHMHMPVHU)
 * YouTube (https://www.youtube.com/watch?v=uI5ChUr8NVw)
 

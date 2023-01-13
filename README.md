@@ -11,7 +11,7 @@ There is a score tracker however you end the game when you want to - there are n
 
 Most importantly, HAVE FUN! 
 
-[Software Demo Video] https://youtu.be/q8x4yu3Gg1I
+https://youtu.be/q8x4yu3Gg1I
 
 # Development Environment
 
